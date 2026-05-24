@@ -1,0 +1,20 @@
+[
+  {
+    "course_name": "파이썬프로그래밍",
+    "year": "2025",
+    "semester": "2",
+    "grade": "A0"
+  },
+  {
+    "course_name": "오픈소스소프트웨어실습",
+    "year": "2026",
+    "semester": "1",
+    "grade": "A+"
+  },
+  {
+    "course_name": "객체지향프로그래밍",
+    "year": "2026",
+    "semester": "1",
+    "grade": "A+"
+  }
+]
